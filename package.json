@@ -1,0 +1,29 @@
+{
+  "name": "db-migrate-plugin-babel",
+  "version": "1.0.0",
+  "description": "A db-migrate plugin to enable migrations to be parsed by babel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjie/db-migrate-plugin-babel.git"
+  },
+  "keywords": [
+    "db-migrate",
+    "dbmigrate",
+    "babel",
+    "es6",
+    "es7",
+    "es2015",
+    "es2016",
+    "es2017"
+  ],
+  "author": "Benjie Gillam <benjie@jemjie.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjie/db-migrate-plugin-babel/issues"
+  },
+  "homepage": "https://github.com/benjie/db-migrate-plugin-babel#readme"
+}

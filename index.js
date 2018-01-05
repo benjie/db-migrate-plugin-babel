@@ -8,7 +8,7 @@ Object.assign(exports, {
   ],
   loadPlugin: function() {
     exports['migrator:migration:hook:require'] = function() {
-      require('babel-register');
+      require('@babel/register');
     };
 
     // loadPlugin can be called multiple times, so we unload it here to save precious cycles

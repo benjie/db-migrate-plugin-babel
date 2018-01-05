@@ -28,5 +28,9 @@
   "homepage": "https://github.com/benjie/db-migrate-plugin-babel#readme",
   "files": [
     "index.js"
-  ]
+  ],
+  "peerDependencies": {
+    "db-migrate": "*",
+    "@babel/register": "*"
+  }
 }

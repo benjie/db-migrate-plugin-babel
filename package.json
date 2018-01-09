@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/benjie/db-migrate-plugin-babel/issues"
   },
-  "homepage": "https://github.com/benjie/db-migrate-plugin-babel#readme"
+  "homepage": "https://github.com/benjie/db-migrate-plugin-babel#readme",
+  "files": [
+    "index.js"
+  ]
 }

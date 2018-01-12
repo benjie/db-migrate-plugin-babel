@@ -30,7 +30,6 @@
     "index.js"
   ],
   "peerDependencies": {
-    "db-migrate": "*",
-    "@babel/register": "*"
+    "db-migrate": "*"
   }
 }

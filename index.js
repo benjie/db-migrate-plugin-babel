@@ -18,8 +18,7 @@ Object.assign(exports, {
           require('babel-register');
         }
         catch {
-          throw new Error("You must include either babel-register or @babel/register in your "
-            + "package.json file.");
+          throw new Error("You must install either babel-register or @babel/register");
         }
       }
     };

@@ -1,6 +1,6 @@
 {
   "name": "db-migrate-plugin-babel",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A db-migrate plugin to enable migrations to be parsed by babel.",
   "main": "index.js",
   "scripts": {

@@ -17,7 +17,7 @@ Object.assign(exports, {
         try {
           require('babel-register');
         }
-        catch {
+        catch (ex) {
           throw new Error("You must install either babel-register or @babel/register");
         }
       }

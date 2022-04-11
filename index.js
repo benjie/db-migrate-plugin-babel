@@ -4,10 +4,10 @@
 Object.assign(exports, {
   name: 'babel',
   hooks: [
-    'migrator:migration:hook:require',
+    'file:hook:require',
   ],
   loadPlugin: function() {
-    exports['migrator:migration:hook:require'] = function() {
+    exports['file:hook:require'] = function() {
 
       try {
         require('@babel/register');
